@@ -1,0 +1,9 @@
+D:\C#\Neudesic.Events\Neudesic.Events.Model\bin\Debug\netstandard2.0\Neudesic.Events.Model.deps.json
+D:\C#\Neudesic.Events\Neudesic.Events.Model\bin\Debug\netstandard2.0\Neudesic.Events.Model.dll
+D:\C#\Neudesic.Events\Neudesic.Events.Model\bin\Debug\netstandard2.0\Neudesic.Events.Model.pdb
+D:\C#\Neudesic.Events\Neudesic.Events.Model\obj\Debug\netstandard2.0\Neudesic.Events.Model.csprojAssemblyReference.cache
+D:\C#\Neudesic.Events\Neudesic.Events.Model\obj\Debug\netstandard2.0\Neudesic.Events.Model.csproj.CoreCompileInputs.cache
+D:\C#\Neudesic.Events\Neudesic.Events.Model\obj\Debug\netstandard2.0\Neudesic.Events.Model.AssemblyInfoInputs.cache
+D:\C#\Neudesic.Events\Neudesic.Events.Model\obj\Debug\netstandard2.0\Neudesic.Events.Model.AssemblyInfo.cs
+D:\C#\Neudesic.Events\Neudesic.Events.Model\obj\Debug\netstandard2.0\Neudesic.Events.Model.dll
+D:\C#\Neudesic.Events\Neudesic.Events.Model\obj\Debug\netstandard2.0\Neudesic.Events.Model.pdb
