@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Neudesic.Events\\Neudesic.Events.Model\\Neudesic.Events.Model.csproj",
-      "projectName": "Neudesic.Events.Model",
-      "projectPath": "D:\\C#\\Neudesic.Events\\Neudesic.Events.Model\\Neudesic.Events.Model.csproj",
+      "projectUniqueName": "D:\\C#\\Neudesic.Events\\Neudesic.Events.Models\\Neudesic.Events.Models.csproj",
+      "projectName": "Neudesic.Events.Models",
+      "projectPath": "D:\\C#\\Neudesic.Events\\Neudesic.Events.Models\\Neudesic.Events.Models.csproj",
       "packagesPath": "C:\\Users\\Srihari.haridasan\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Neudesic.Events\\Neudesic.Events.Model\\obj\\",
+      "outputPath": "D:\\C#\\Neudesic.Events\\Neudesic.Events.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

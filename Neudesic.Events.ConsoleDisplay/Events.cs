@@ -1,4 +1,4 @@
-using Neudesic.Events.Model;
+using Neudesic.Events.Models;
 using System;
 using System.Collections.Generic;
 

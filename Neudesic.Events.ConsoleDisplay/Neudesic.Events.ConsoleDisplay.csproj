@@ -49,9 +49,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Neudesic.Events.Model\Neudesic.Events.Model.csproj">
-      <Project>{B0B30B5F-5001-4E3F-91DF-604D373B4577}</Project>
-      <Name>Neudesic.Events.Model</Name>
+    <ProjectReference Include="..\Neudesic.Events.Models\Neudesic.Events.Models.csproj">
+      <Project>{16C87107-A3EB-4273-BD0D-6F8A03999521}</Project>
+      <Name>Neudesic.Events.Models</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Neudesic.Events.Model
+namespace Neudesic.Events.Models
 {
     public class EventDetails
     {
